@@ -1,0 +1,27 @@
+Exercicio 1:
+Insira os Números
+Escolha a operacao - syso e sc
+Determine variaveis e condições para isto acontecer
+ 
+ 
+ 
+ Exercicio 2:
+
+Insira os Números - syso e sc
+
+SE (condicional = % 4) {
+
+    entao o time é
+}
+
+Exercicio 3:
+
+Determine os preços - syso
+Peça a quantidade - syso e sc
+SE (condicional - preco >x ou peso >y) {
+
+    syso - Preco com desconto
+} else {
+
+    syso - ate mais
+}

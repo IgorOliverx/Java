@@ -1,0 +1,11 @@
+import java.util.Scanner;
+
+public class App {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+
+        Avaliacao obj1 = new Avaliacao();
+        obj1.exercicio03();
+    }
+}
